@@ -1,0 +1,42 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Wapliss",
+    "es": "Wapliss"
+  },
+  "plugins": [
+    {
+      "name": "dsh-plugin-wapliss",
+      "title": {
+        "en": "Wapliss WhatsApp",
+        "es": "Wapliss WhatsApp",
+        "zh": "Wapliss WhatsApp"
+      },
+      "description": {
+        "en": "Read your WhatsApp chats and groups and send messages, media, locations, contacts and polls through Wapliss.",
+        "es": "Lee tus chats y grupos de WhatsApp y envía mensajes, archivos, ubicaciones, contactos y encuestas con Wapliss.",
+        "zh": "通过 Wapliss 读取 WhatsApp 聊天和群组，并发送消息、媒体、位置、联系人和投票。"
+      },
+      "icon": "https://raw.githubusercontent.com/proteuscrypto/wapliss-for-deepseek/main/icon.png",
+      "author": "Wapliss",
+      "homepage": "https://wapliss.com/integrations#deepseek",
+      "repository": {
+        "url": "https://github.com/proteuscrypto/wapliss-for-deepseek"
+      },
+      "versions": [
+        {
+          "version": "1.0.0",
+          "publishTimestamp": 0,
+          "engines": {
+            "dsh": ">=0.2.2-rc.1 <0.3.0"
+          },
+          "source": {
+            "type": "git",
+            "url": "https://github.com/proteuscrypto/wapliss-for-deepseek",
+            "commit": "COMMIT_SHA"
+          }
+        }
+      ]
+    }
+  ]
+}

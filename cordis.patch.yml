@@ -1,0 +1,20 @@
+# Wapliss WhatsApp for DeepSeek Harness (configuration-only bundle).
+# Mounts the in-box MCP client (@deepseek-ai/dsh-mcp-client) against the Wapliss MCP server,
+# versioned endpoint /mcp/v1 (stable English tool definitions).
+#
+# Authentication: your personal Wapliss API key (wp_live_...) from the environment variable
+# WAPLISS_API_KEY, read from the launch environment, your project's .env or $DSH_HOME/.env.
+# The key never appears in this file, in your profile or in the conversation. Without the key
+# the row stays disabled, so the harness starts normally and no request reaches Wapliss.
+- insert:
+    - id: wapliss-whatsapp
+      name: '@deepseek-ai/dsh-mcp-client'
+      disabled: !!js '!process.env.WAPLISS_API_KEY'
+      config:
+        serverName: wapliss
+        transport: streamable-http
+        url: https://wapliss.com/mcp/v1
+        headers:
+          Authorization: !!js '`Bearer ${process.env.WAPLISS_API_KEY}`'
+        toolCallTimeoutMs: 60000
+        failOnStartupError: false

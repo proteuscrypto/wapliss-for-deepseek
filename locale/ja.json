@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Wapliss WhatsApp",
+    "description": "Wapliss を通じて WhatsApp のチャットとグループを読み、メッセージ、画像、ドキュメント、音声、動画、位置情報、連絡先、投票を送信します。Wapliss API キー（WAPLISS_API_KEY）が必要です。"
+  }
+}

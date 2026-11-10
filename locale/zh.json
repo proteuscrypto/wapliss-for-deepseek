@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Wapliss WhatsApp",
+    "description": "通过 Wapliss 读取你的 WhatsApp 聊天和群组，并发送消息、图片、文档、音频、视频、位置、联系人和投票。需要 Wapliss API 密钥（WAPLISS_API_KEY）。"
+  }
+}
