@@ -26,14 +26,14 @@
       "versions": [
         {
           "version": "1.0.0",
-          "publishTimestamp": 0,
+          "publishTimestamp": 1794351797,
           "engines": {
             "dsh": ">=0.2.2-rc.1 <0.3.0"
           },
           "source": {
             "type": "git",
             "url": "https://github.com/proteuscrypto/wapliss-for-deepseek",
-            "commit": "COMMIT_SHA"
+            "commit": "a939f24ec4f34c6fe591b5b249b38e7f0b2fb0b0"
           }
         }
       ]
