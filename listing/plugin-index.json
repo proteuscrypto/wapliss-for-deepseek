@@ -18,7 +18,7 @@
         "zh": "通过 Wapliss 读取 WhatsApp 聊天和群组，并发送消息、媒体、位置、联系人和投票。"
       },
       "icon": "https://raw.githubusercontent.com/proteuscrypto/wapliss-for-deepseek/main/icon.png",
-      "author": "Wapliss",
+      "author": "netdigitaltech",
       "homepage": "https://wapliss.com/integrations#deepseek",
       "repository": {
         "url": "https://github.com/proteuscrypto/wapliss-for-deepseek"

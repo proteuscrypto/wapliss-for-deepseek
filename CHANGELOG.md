@@ -1,5 +1,16 @@
 # Changelog
 
+All notable changes to the Wapliss WhatsApp bundle for DeepSeek Harness.
+Created and maintained by netdigitaltech.
+
+## 1.0.1 (2026-11-10)
+
+- Documentation: README rewritten with compatibility table, quick start,
+  example prompts, FAQ, troubleshooting and links to the other Wapliss plugins.
+- Metadata: author netdigitaltech, homepage `wapliss.com/integrations#deepseek`,
+  more search keywords. No change to the bundle row or the tools.
+
+
 ## 1.0.0 (2026-11-10)
 
 - First release: configuration-only DeepSeek Harness bundle for the Wapliss MCP

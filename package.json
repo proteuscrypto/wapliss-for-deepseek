@@ -1,10 +1,13 @@
 {
   "name": "dsh-plugin-wapliss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wapliss WhatsApp for DeepSeek Harness: read your WhatsApp chats and groups and send messages, images, documents, audio, video, locations, contacts and polls from the agent, through the Wapliss MCP server.",
   "license": "MIT",
-  "author": "Wapliss (https://wapliss.com)",
-  "homepage": "https://wapliss.com/integraciones#deepseek",
+  "author": {
+    "name": "netdigitaltech",
+    "url": "https://wapliss.com"
+  },
+  "homepage": "https://wapliss.com/integrations#deepseek",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/proteuscrypto/wapliss-for-deepseek.git"
@@ -16,9 +19,13 @@
     "dsh-plugin",
     "deepseek",
     "deepseek-harness",
+    "dsh",
     "mcp",
+    "mcp-server",
     "whatsapp",
-    "wapliss"
+    "whatsapp-mcp",
+    "wapliss",
+    "ai-agent"
   ],
   "type": "module",
   "icon": "./icon.png",
