@@ -30,7 +30,7 @@
 
 ## What is Wapliss?
 
-[Wapliss](https://wapliss.com/), by [NetDigitalTech](https://github.com/netdigitaltech), is a WhatsApp gateway for AI assistants. You
+[Wapliss](https://wapliss.com/), by [NetDigitalTech LLC](https://netdigitaltech.com/), is a WhatsApp gateway for AI assistants. You
 link your WhatsApp number once with a QR code, authorize your assistant, and
 the assistant can read your chats and groups and send WhatsApp messages for
 you through a standard [Model Context Protocol](https://modelcontextprotocol.io/)
@@ -225,8 +225,10 @@ the same 16 tools.
 
 ## Credits and support
 
-- **Created and maintained by [NetDigitalTech](https://github.com/netdigitaltech)**, the company that
-  created and owns [Wapliss](https://wapliss.com/).
+- **Created and maintained by [NetDigitalTech LLC](https://netdigitaltech.com/)**
+  ([GitHub](https://github.com/netdigitaltech)), the company that created and owns
+  [Wapliss](https://wapliss.com/). NetDigitalTech builds web, mobile and AI
+  applications. Albuquerque, New Mexico, USA · commerce@netdigitaltech.com
 - Support: [open an issue](https://github.com/proteuscrypto/wapliss-for-deepseek/issues) in this repository.
 - Integration guides: [English](https://wapliss.com/integrations#deepseek) ·
   [Español](https://wapliss.com/integraciones#deepseek)
@@ -245,7 +247,7 @@ El chat web de DeepSeek no admite conectores MCP: se usa DeepSeek Harness.
 
 Ejemplos: *"Muéstrame mis últimos mensajes de WhatsApp"*, *"Resume lo que se
 habló hoy en el grupo de la familia"*, *"Envía 'Llego en 10 minutos' a
-+54 9 11 5555 0100"*. Creado y mantenido por **[NetDigitalTech](https://github.com/netdigitaltech)**,
++54 9 11 5555 0100"*. Creado y mantenido por **[NetDigitalTech LLC](https://netdigitaltech.com/)**,
 la empresa creadora y dueña de [Wapliss](https://wapliss.com/). Guía completa:
 [wapliss.com/integraciones#deepseek](https://wapliss.com/integraciones#deepseek).
 
@@ -255,4 +257,4 @@ DeepSeek is a trademark of Hangzhou DeepSeek Artificial Intelligence Co., Ltd. W
 an independent service and is not affiliated with, sponsored or endorsed by
 Meta, WhatsApp or DeepSeek.
 
-Released under the [MIT License](LICENSE). © 2026 NetDigitalTech, creator and owner of Wapliss.
+Released under the [MIT License](LICENSE). © 2026 NetDigitalTech LLC, creator and owner of Wapliss.
